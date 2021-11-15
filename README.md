@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm Vivek Vishwakarma
+- 🌱 I’m currently learning Full-Stack Web Development and Data Structures and Algorithms.
