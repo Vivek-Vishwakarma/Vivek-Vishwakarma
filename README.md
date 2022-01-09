@@ -7,6 +7,7 @@
 - 📽️ Projects : 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&vCenter=true&lines=Vflix;News+App+Using+React;Discord+Bot;Notes+App;Weather+App;Music+Player;And+Many+More)](https://git.io/typing-svg)
 - Portfolio : https://vivek-vishwakarma.github.io/new-react-portfolio/
+- <a href="https://discord.com/oauth2/authorize?client_id=772837737141108737&permissions=1644906413303&scope=bot">Invite my discord bot</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
