@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 ### I'm Vivek Vishwakarma
 - 🌱 I’m currently learning Full-Stack Web Development and Data Structures and Algorithms.
@@ -19,8 +19,6 @@
 
 <h1>GitHub Stats! 📊</h1>
 <Br>
-  
-[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=Vivek-Vishwakarma&show_icons=true&theme=merko)](https://github.com/Vivek-Vishwakarma/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Vishwakarma&layout=compact&theme=merko)](https://github.com/Vivek-Vishwakarma/github-readme-stats)
-
- 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek-Vishwakarma&show_icons=true" alt="Vivek-Vishwakarma" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Vishwakarma&exclude_repo=github-readme-stats,anuraghazra.github.io&show_icons=true" alt="Vivek-Vishwakarma"/></p>
 <Br>
