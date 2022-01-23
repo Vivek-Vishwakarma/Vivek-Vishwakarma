@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vivek-vishwakarma-2172a519b/"><img src="https://img.shields.io/badge/-Vivek%20Vishwakarma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vivek.vishwakarma10022002@gmail.com"><img src="https://img.shields.io/badge/-vivek.vishwakarma10022002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:vivek.vishwakarma10022002@gmail.com"><img src="https://img.shields.io/badge/-vivek-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/VivekVish2002"><img alt="Twitter" title="VivekVish2002" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
