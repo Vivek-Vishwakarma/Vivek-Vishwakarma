@@ -19,6 +19,7 @@
 
 <h1>GitHub Stats! 📊</h1>
 <Br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek-Vishwakarma&show_icons=true" alt="Vivek-Vishwakarma" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Vishwakarma&exclude_repo=github-readme-stats,anuraghazra.github.io&show_icons=true" alt="Vivek-Vishwakarma"/></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek-Vishwakarma&show_icons=true&theme=dark" alt="Vivek-Vishwakarma" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Vishwakarma&theme=dark&exclude_repo=github-readme-stats&show_icons=true" alt="Vivek-Vishwakarma"/></p>
 <Br>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=0v84zva5pk0sjs2y3w749yn3b&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
